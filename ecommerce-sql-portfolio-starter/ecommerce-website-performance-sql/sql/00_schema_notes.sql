@@ -1,0 +1,8 @@
+-- 00_schema_notes.sql
+-- Describe keys and relationships used in ERD.
+-- Primary keys:
+--   orders(order_id), order_items(order_id, product_id), customers(customer_id), products(product_id)
+-- Foreign keys:
+--   order_items.order_id -> orders.order_id
+--   order_items.product_id -> products.product_id
+--   orders.customer_id -> customers.customer_id
