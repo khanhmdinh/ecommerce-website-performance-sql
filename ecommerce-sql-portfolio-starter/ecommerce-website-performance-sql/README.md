@@ -1,7 +1,6 @@
-# E-commerce Website Performance Analysis (SQL-first)
+# E-commerce Website Performance Analysis (SQL)
 
-> **Status:** Draft • Last updated: August 11, 2025  
-> **Role:** Data Analyst (Intern) • **Focus:** SQL → Insights → Dashboard
+> **Status:** Draft • Last updated: This portfolio is currently being updated with additional projects.
 
 ---
 
